@@ -1,4 +1,8 @@
 ### Hi there 👋
+## I'm currently learning React
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nihal8180&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
 
 <!--
 **nihal8180/nihal8180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
