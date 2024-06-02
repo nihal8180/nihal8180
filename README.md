@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm currently learning React
+### I'm currently prefinal information technology students with strong skill of problem solving through web development.
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=nihal8180&label=Profile%20Views&color=0&icon=0&pretty=false" />
 </a>
